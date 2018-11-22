@@ -2,7 +2,7 @@
 Script to update inventory of all mobile devices in Jamf Pro
 
 ##############################################################################################################################
-#	QUICK SCRIPT WRITTEN BY TRAVELLING TECH GUY FOR BLOG POST ON: https://travellingtechguy.eu/jamf-api-ios-shortcuts/‎(opens in a new tab)
+#	QUICK SCRIPT WRITTEN BY TRAVELLING TECH GUY FOR BLOG POST ON: https://travellingtechguy.eu/jamf-api-ios-shortcuts
 #	
 #	TRAVELLING TECH GUY - 22TH OF NOVEMBER 2018
 #	
